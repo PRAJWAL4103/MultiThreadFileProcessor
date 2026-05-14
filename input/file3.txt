@@ -1,0 +1,5 @@
+Operating systems manage processes and threads.
+A thread is the smallest unit of execution.
+Synchronization prevents data inconsistency.
+File handling is an important feature in Java.
+Software systems often process multiple files concurrently.

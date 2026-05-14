@@ -1,0 +1,5 @@
+Java is a powerful programming language.
+It supports object oriented programming concepts.
+Multithreading allows execution of multiple tasks simultaneously.
+This project demonstrates file processing using threads.
+Concurrency improves performance in modern applications.
